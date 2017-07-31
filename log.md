@@ -14,6 +14,21 @@
 
 ### Day 3: July 28, 2017
 
-**Today's Progress:** 
+**Today's Progress:** Finished jQuery and the tribute page.
 
-**Thoughts**:
+**Link(s) to work**: [Haruki Murakami Tribute Page](http://yu2.github.io/tribute.html)
+
+### Day 4: July 29, 2017
+
+**Today's Progress:** Worked on the tribute page.
+
+**Thoughts**: The things we have to do for the tribute page is quite overwhelming.
+
+### Day 5: July 30, 2017
+
+**Today's Progress:** Finished all the requirements of the portfolio project.
+
+**Thoughts**: After much searching, reading, and copying, I finally have a passable portfolio page. I will move onto javascript tomorrow and add to the page as I go along. Bootstrap can be confusing sometimes because of the hidden CSS classes. I found that creating a new div is sometimes a good solution to get around unknown values. 
+
+**Link to work**: [Portfolio](http://yu2.github.io/portfolio/portfolio.html)
+
