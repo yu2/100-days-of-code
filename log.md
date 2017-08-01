@@ -32,3 +32,7 @@
 
 **Link to work**: [Portfolio](http://yu2.github.io/portfolio/portfolio.html)
 
+### Day 6: July 31, 2017
+
+**Today's Progress:** Halfway through Javascript lessons. Made minor improvements to social media icons on Portfolio.
+
