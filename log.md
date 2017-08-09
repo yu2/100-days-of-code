@@ -36,3 +36,25 @@
 
 **Today's Progress:** Halfway through Javascript lessons. Made minor improvements to social media icons on Portfolio.
 
+### Day 7: August 1, 2017
+
+**Today's Progress:** Almost through Javascript.
+
+### Day 8: August 2, 2017
+
+**Today's Progress:** Finished Javascript and Object Oriented Programming, starting on Basic Algorithms.
+
+### Day 9: August 3, 2017
+
+**Today's Progress:** Still working on Algorithms, some are taking much longer than others.
+
+### Day 10-11: August 4-8, 2017
+
+**Today's Progress:** Worked sporadically while on trip, made progress through Algorithms and finally solved "Chunky Monkey".
+
+
+
+
+
+
+
