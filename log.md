@@ -52,7 +52,9 @@
 
 **Today's Progress:** Worked sporadically while on trip, made progress through Algorithms and finally solved "Chunky Monkey".
 
+### Day 12: August 9, 2017
 
+**Today's Progress:** Finished final Basic Algorithm challenges and got a small start on JSON and Ajax. MDN is so helpful and reading their resources often help me uncover details that help a lot in the long run.
 
 
 
