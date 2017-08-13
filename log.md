@@ -56,7 +56,16 @@
 
 **Today's Progress:** Finished final Basic Algorithm challenges and got a small start on JSON and Ajax. MDN is so helpful and reading their resources often help me uncover details that help a lot in the long run.
 
+### Day 13: August 10, 2017
 
+**Today's Progress:** Finished JSON and Ajax but haven't had a chance to practice them and don't quite understand them yet.
 
+## Day 14: August 11, 2017
+
+**Today's Progress** Started on the Random Quotes Machine by brainstorming and then deciding on a tennis quotes page. Spent a lot of time figuring out how to make a div's height proportional to its width.
+
+## Day 15: August 12, 2017
+
+**Today's Progress** Made a tennis court with accurate dimensions with css, mostly using borders. Learning to use viewport units made it a lot easier. 
 
 
