@@ -68,4 +68,11 @@
 
 **Today's Progress** Made a tennis court with accurate dimensions with css, mostly using borders. Learning to use viewport units made it a lot easier. 
 
+## Day 16: August 15, 2017
+
+**Today's Progress**: Practiced using flexbox layout.
+
+## Day 17: August 17, 2017
+
+**Today's Progress**: Practiced more with flexbox and started using CSS animations and the CSS filter property. Also experimented with event listeners.
 
