@@ -76,3 +76,6 @@
 
 **Today's Progress**: Practiced more with flexbox and started using CSS animations and the CSS filter property. Also experimented with event listeners.
 
+## Day 18: August 18, 2017
+
+**Today's Progress**: Adjusted flexbox properties of "Playground" page, added more content, and used Javascript to adjust the height of pages to improve page fit and transition while scrolling. Experimenting with button animation.
