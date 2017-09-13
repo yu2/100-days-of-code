@@ -12,3 +12,6 @@ Finished all of weather page except Celsius/Fahrenheit switching.
 
 ### R1D27 (9/11)
 Working on switching between C/F, but click events are not working after making an ajax call.
+
+### R1D28 (9/12)
+Finished Weather app. Found out that click events weren't working because the z-indexes of the elements were below the body.
