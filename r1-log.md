@@ -15,3 +15,6 @@ Working on switching between C/F, but click events are not working after making 
 
 ### R1D28 (9/12)
 Finished Weather app. Found out that click events weren't working because the z-indexes of the elements were below the body.
+
+### R1D29 (9/26)
+Finished a rough version of the Wikipedia Viewer that can fulfill the user stories, but haven't decided if I'm going to show more information about each result than just the title. Also need to add some more in the way of aethetics.
