@@ -18,3 +18,6 @@ Finished Weather app. Found out that click events weren't working because the z-
 
 ### R1D29 (9/26)
 Finished a rough version of the Wikipedia Viewer that can fulfill the user stories, but haven't decided if I'm going to show more information about each result than just the title. Also need to add some more in the way of aethetics.
+
+### R1D30 (9/27)
+Added random colors to the buttons in the Wikipedia Viewer, changed the icons, and other small changes. What's left are the aesthetics.
