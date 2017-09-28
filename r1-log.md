@@ -21,3 +21,6 @@ Finished a rough version of the Wikipedia Viewer that can fulfill the user stori
 
 ### R1D30 (9/27)
 Added random colors to the buttons in the Wikipedia Viewer, changed the icons, and other small changes. What's left are the aesthetics.
+
+### R1D31 (9/28)
+Finished Wikipedia Viewer by adding page snippets, Wikipedia colour theme, search bar, icons, and fixing flex-shrink.
