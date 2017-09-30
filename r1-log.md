@@ -24,3 +24,6 @@ Added random colors to the buttons in the Wikipedia Viewer, changed the icons, a
 
 ### R1D31 (9/28)
 Finished Wikipedia Viewer by adding page snippets, Wikipedia colour theme, search bar, icons, and fixing flex-shrink.
+
+### R1D32 (9/30)
+Started layout for Twitch API. Wondering how to improve the site skeleton.
