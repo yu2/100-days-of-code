@@ -27,3 +27,6 @@ Finished Wikipedia Viewer by adding page snippets, Wikipedia colour theme, searc
 
 ### R1D32 (9/30)
 Started layout for Twitch API. Wondering how to improve the site skeleton.
+
+### R1D33 (10/3)
+Streamlined website layout, picked colours, and made a successful call to Twitch API v5. Wondering how best to efficiently fetch several channels at once.
