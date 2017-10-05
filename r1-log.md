@@ -30,3 +30,6 @@ Started layout for Twitch API. Wondering how to improve the site skeleton.
 
 ### R1D33 (10/3)
 Streamlined website layout, picked colours, and made a successful call to Twitch API v5. Wondering how best to efficiently fetch several channels at once.
+
+### R1D34 (10/4)
+Added some simple fading effects. Tried layering but ended up breaking some stuff and then having to fix them. Tomorrow will try ordering with the align-self property.
