@@ -33,3 +33,6 @@ Streamlined website layout, picked colours, and made a successful call to Twitch
 
 ### R1D34 (10/4)
 Added some simple fading effects. Tried layering but ended up breaking some stuff and then having to fix them. Tomorrow will try ordering with the align-self property.
+
+### R1D35 (10/5)
+Modified design to enable search for each channel box. The JS side has not been modified, so only the first searchbox works right now. Another problem will be gathering multiple searchboxes and binding the same click event to them, and have that event get the id of the element it is being called from. 
