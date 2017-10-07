@@ -36,3 +36,6 @@ Added some simple fading effects. Tried layering but ended up breaking some stuf
 
 ### R1D35 (10/5)
 Modified design to enable search for each channel box. The JS side has not been modified, so only the first searchbox works right now. Another problem will be gathering multiple searchboxes and binding the same click event to them, and have that event get the id of the element it is being called from. 
+
+### R1D36 (10/6)
+Fixed event listeners so that they would affect the right elements. Now all three boxes are functional. 
