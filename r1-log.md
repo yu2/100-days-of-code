@@ -42,3 +42,6 @@ Fixed event listeners so that they would affect the right elements. Now all thre
 
 ### R1D37 (10/7)
 Finally got overlaying boxes to work by using absolute positioning correctly. Also added channel art. Next will make design tweaks and learn about making the page mobile-friendly.
+
+### R1D38 (10/9)
+Streamlined JS code by setting some parts in HTML, added links and got them to work correctly, changed layout of logos and other components to be more responsive.
