@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Yu2
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
@@ -45,3 +45,6 @@ Finally got overlaying boxes to work by using absolute positioning correctly. Al
 
 ### R1D38 (10/9)
 Streamlined JS code by setting some parts in HTML, added links and got them to work correctly, changed layout of logos and other components to be more responsive.
+
+### R1D39 (10/10)
+Finished Twitch API app. Had a scare when Client ID stopped working and started returning error 400, but turns out I had the wrong ID. No idea why it was working before. Also changed color theme, added preview, and made it check for FFC status as per user story requirement.
