@@ -40,7 +40,8 @@ Modified design to enable search for each channel box. The JS side has not been 
 ### R1D36 (10/6)
 Fixed event listeners so that they would affect the right elements. Now all three boxes are functional. 
 
-### R1D37 (10/7)Finally got overlaying boxes to work by using absolute positioning correctly. Also added channel art. Next will make design tweaks and learn about making the page mobile-friendly.
+### R1D37 (10/7)
+Finally got overlaying boxes to work by using absolute positioning correctly. Also added channel art. Next will make design tweaks and learn about making the page mobile-friendly.
 
 
 ### R1D38 (10/9)
@@ -49,4 +50,5 @@ Streamlined JS code by setting some parts in HTML, added links and got them to w
 ### R1D39 (10/10)
 Finished Twitch API app. Had a scare when Client ID stopped working and started returning error 400, but turns out I had the wrong ID. No idea why it was working before. Also changed color theme, added preview, and made it check for FFC status as per user story requirement.
 
-add links to games
+### R1D40 (10/)
+Added links to game names that lead to the most popular channels playing that game. 
