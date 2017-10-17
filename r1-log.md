@@ -51,4 +51,4 @@ Streamlined JS code by setting some parts in HTML, added links and got them to w
 Finished Twitch API app. Had a scare when Client ID stopped working and started returning error 400, but turns out I had the wrong ID. No idea why it was working before. Also changed color theme, added preview, and made it check for FFC status as per user story requirement.
 
 ### R1D40 (10/)
-Added links to game names that lead to the most popular channels playing that game. 
+Added links to game names that lead to the most popular channels playing that game, changed font
