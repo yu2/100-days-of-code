@@ -50,5 +50,5 @@ Streamlined JS code by setting some parts in HTML, added links and got them to w
 ### R1D39 (10/10)
 Finished Twitch API app. Had a scare when Client ID stopped working and started returning error 400, but turns out I had the wrong ID. No idea why it was working before. Also changed color theme, added preview, and made it check for FFC status as per user story requirement.
 
-### R1D40 (10/)
-Added links to game names that lead to the most popular channels playing that game, changed font
+### R1D40+41 (10/18)
+Updated Twitch viewer and started working on Quichua syntactic parser. So far it only generates simple affixes and roots and can't actually do any actual parsing yet.
