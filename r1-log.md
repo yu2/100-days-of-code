@@ -52,3 +52,6 @@ Finished Twitch API app. Had a scare when Client ID stopped working and started 
 
 ### R1D40+41 (10/18)
 Updated Twitch viewer and started working on Quichua syntactic parser. So far it only generates simple affixes and roots and can't actually do any actual parsing yet.
+
+### R1D42 (10/19)
+Tweaked and added to the skeleton of the parser project. Made search forms work and adjusted layout.
