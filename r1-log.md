@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Yu2
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [July 26, 2017].
 
 ## Log
 
