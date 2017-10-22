@@ -55,3 +55,6 @@ Updated Twitch viewer and started working on Quichua syntactic parser. So far it
 
 ### R1D42 (10/19)
 Tweaked and added to the skeleton of the parser project. Made search forms work and adjusted layout.
+
+### R1D43 (10/21)
+Added functionality - now can parse one root followed by one or more suffixes. Made font a little bigger and changed default text in input form. 
