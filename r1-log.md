@@ -58,3 +58,6 @@ Tweaked and added to the skeleton of the parser project. Made search forms work 
 
 ### R1D43 (10/21)
 Added functionality - now can parse one root followed by one or more suffixes. Made font a little bigger and changed default text in input form. 
+
+### R1D44 (10/27)
+Worked on algorithms and made a simple roman numeral converter.
