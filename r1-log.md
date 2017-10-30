@@ -61,3 +61,6 @@ Added functionality - now can parse one root followed by one or more suffixes. M
 
 ### R1D44 (10/27)
 Worked on algorithms and made a simple roman numeral converter.
+
+### R1D45 (10/29)
+Revisited an old site and experimented with making a sticky navigation bar.
