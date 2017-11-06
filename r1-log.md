@@ -64,3 +64,6 @@ Worked on algorithms and made a simple roman numeral converter.
 
 ### R1D45 (10/29)
 Revisited an old site and experimented with making a sticky navigation bar.
+
+### R1D46 (11/5)
+Algorithms (wherefore art thou) and toggleable menu.
