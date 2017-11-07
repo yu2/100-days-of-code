@@ -67,3 +67,6 @@ Revisited an old site and experimented with making a sticky navigation bar.
 
 ### R1D46 (11/5)
 Algorithms (wherefore art thou) and toggleable menu.
+
+### R1D47 (11/6)
+Algorithm (search and replace) and tried to make console items appear one by one without success.
