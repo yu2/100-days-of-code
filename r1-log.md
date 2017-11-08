@@ -70,3 +70,6 @@ Algorithms (wherefore art thou) and toggleable menu.
 
 ### R1D47 (11/6)
 Algorithm (search and replace) and tried to make console items appear one by one without success.
+
+### R1D48 (11/7)
+Algorithm (pig latin), made console messages appear one by one with jQuery's show(), added some aesthetics.
