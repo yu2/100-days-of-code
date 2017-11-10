@@ -76,3 +76,6 @@ Algorithm (pig latin), made console messages appear one by one with jQuery's sho
 
 ### R1D49 (11/8)
 Algorithm (DNA Pairing), added ability to enter text to mock console, fixed scrolling, and used JSON.stringify to better display arrays.
+
+### R1D50 (11/9)
+Algorithms (to Boo Who), begun to learn about importing and reading files.
