@@ -79,3 +79,6 @@ Algorithm (DNA Pairing), added ability to enter text to mock console, fixed scro
 
 ### R1D50 (11/9)
 Algorithms (to Boo Who), begun to learn about importing and reading files.
+
+### R1D51 (11/10)
+Algorithms (worked on Sorted Union) and beginning to convert file to new format.
