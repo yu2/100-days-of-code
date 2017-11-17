@@ -82,3 +82,6 @@ Algorithms (to Boo Who), begun to learn about importing and reading files.
 
 ### R1D51 (11/10)
 Algorithms (worked on Sorted Union) and beginning to convert file to new format.
+
+### R1D52 (11/16)
+Algorithms (Sorted Union and Convert HTML Entities). Also worked on parsing text file into JSON format. 
