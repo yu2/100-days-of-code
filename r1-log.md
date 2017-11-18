@@ -85,3 +85,6 @@ Algorithms (worked on Sorted Union) and beginning to convert file to new format.
 
 ### R1D52 (11/16)
 Algorithms (Sorted Union and Convert HTML Entities). Also worked on parsing text file into JSON format. 
+
+### R1D53 (11/17)
+Algorithm (Spinal Tap) with regular expressions. 
