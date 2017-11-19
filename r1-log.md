@@ -88,3 +88,6 @@ Algorithms (Sorted Union and Convert HTML Entities). Also worked on parsing text
 
 ### R1D53 (11/17)
 Algorithm (Spinal Tap) with regular expressions. 
+
+### R1D54 (11/18)
+Algorithm (Sum All Odd Fibonacci Numbers), thought about the next one.
