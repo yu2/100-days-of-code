@@ -91,3 +91,6 @@ Algorithm (Spinal Tap) with regular expressions.
 
 ### R1D54 (11/18)
 Algorithm (Sum All Odd Fibonacci Numbers), thought about the next one.
+
+### R1D55 (11/20)
+Algorithms (Sum All Primes, Smallest Common Multiple, Finders Keepers).
