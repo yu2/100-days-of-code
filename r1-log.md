@@ -94,3 +94,6 @@ Algorithm (Sum All Odd Fibonacci Numbers), thought about the next one.
 
 ### R1D55 (11/20)
 Algorithms (Sum All Primes, Smallest Common Multiple, Finders Keepers).
+
+### R1D56 (11/21)
+Algorithm (Drop It), Kata (Binary Addition).
