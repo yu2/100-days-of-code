@@ -97,3 +97,6 @@ Algorithms (Sum All Primes, Smallest Common Multiple, Finders Keepers).
 
 ### R1D56 (11/21)
 Algorithm (Drop It), Kata (Binary Addition).
+
+### R1D57 (11/22)
+Completed kata and worked on an algorithm (Steamroller).
