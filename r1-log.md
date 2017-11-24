@@ -103,3 +103,6 @@ Completed kata (Descending Order, Balance Points) and worked on an algorithm (St
 
 ### R1D58 (11/23)
 Algorithm (Steamroller, Binary Agent), kata (Most Likely).  
+
+### R1D59 (11/24)
+Algorithm (Everything Be True), redesigned parser in anticipation of updating functionality.
