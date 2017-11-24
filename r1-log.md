@@ -99,4 +99,7 @@ Algorithms (Sum All Primes, Smallest Common Multiple, Finders Keepers).
 Algorithm (Drop It), Kata (Binary Addition).
 
 ### R1D57 (11/22)
-Completed kata and worked on an algorithm (Steamroller).
+Completed kata (Descending Order, Balance Points) and worked on an algorithm (Steamroller).
+
+### R1D58 (11/23)
+Algorithm (Steamroller, Binary Agent), kata (Most Likely).  
