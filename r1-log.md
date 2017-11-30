@@ -106,3 +106,6 @@ Algorithm (Steamroller, Binary Agent), kata (Most Likely).
 
 ### R1D59 (11/24)
 Algorithm (Everything Be True), redesigned parser in anticipation of updating functionality.
+
+### R1D60 (11/29)
+Algorithm (Arguments Optional), revisited parser and file projects.
