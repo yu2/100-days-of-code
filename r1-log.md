@@ -109,3 +109,6 @@ Algorithm (Everything Be True), redesigned parser in anticipation of updating fu
 
 ### R1D60 (11/29)
 Algorithm (Arguments Optional), revisited parser and file projects.
+
+### R1D61 (11/30)
+Algorithms (Validate US Phone Numbers, Record Collection).
