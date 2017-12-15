@@ -112,3 +112,6 @@ Algorithm (Arguments Optional), revisited parser and file projects.
 
 ### R1D61 (11/30)
 Algorithms (Validate US Phone Numbers, Record Collection).
+
+### R1D62 (12/14)
+Algorithm (Symmetric Difference).
