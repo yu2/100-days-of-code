@@ -115,3 +115,6 @@ Algorithms (Validate US Phone Numbers, Record Collection).
 
 ### R1D62 (12/14)
 Algorithm (Symmetric Difference).
+
+### R1D63 (12/15)
+Algorithm (Exact Change).
