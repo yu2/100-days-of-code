@@ -118,3 +118,6 @@ Algorithm (Symmetric Difference).
 
 ### R1D63 (12/15)
 Algorithm (Exact Change).
+
+### R1D64 (12/17)
+Algorithm (Inventory Update).
