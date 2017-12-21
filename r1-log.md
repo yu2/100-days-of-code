@@ -121,3 +121,6 @@ Algorithm (Exact Change).
 
 ### R1D64 (12/17)
 Algorithm (Inventory Update).
+
+### R1D65 (12/20)
+Working on No Repeats Please, learned about momoization.
