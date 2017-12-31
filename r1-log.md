@@ -124,3 +124,6 @@ Algorithm (Inventory Update).
 
 ### R1D65 (12/20)
 Working on No Repeats Please, learned about momoization.
+
+### R1D66 (12/30)
+Working on No Repeats Please, now working correctly for three-character sequences.
