@@ -127,3 +127,6 @@ Working on No Repeats Please, learned about momoization.
 
 ### R1D66 (12/30)
 Working on No Repeats Please, now working correctly for three-character sequences.
+
+### R1D67 (1/8)
+No Repeats Please working on most cases.
