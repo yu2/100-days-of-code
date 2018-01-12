@@ -130,3 +130,6 @@ Working on No Repeats Please, now working correctly for three-character sequence
 
 ### R1D67 (1/8)
 No Repeats Please working on most cases.
+
+### R1D68 (1/11)
+No Repeats Please working now.
