@@ -133,3 +133,6 @@ No Repeats Please working on most cases.
 
 ### R1D68 (1/11)
 No Repeats Please working now.
+
+### R1D69 (1/22)
+Completed TryGit course from Code School. Trying to reorganize repository.
