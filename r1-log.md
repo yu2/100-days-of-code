@@ -136,3 +136,6 @@ No Repeats Please working now.
 
 ### R1D69 (1/22)
 Completed TryGit course from Code School. Trying to reorganize repository.
+
+### R1D70 (1/26)
+Started reading chapter 1 of You Don't Know Javascript, halfway through
