@@ -138,4 +138,7 @@ No Repeats Please working now.
 Completed TryGit course from Code School. Trying to reorganize repository.
 
 ### R1D70 (1/26)
-Started reading chapter 1 of You Don't Know Javascript, halfway through
+Started reading chapter 1 of You Don't Know Javascript, halfway through.
+
+### R1D71 (1/27)
+Organized repository and resumed work on Parser. Added upload button and functionality.
