@@ -142,3 +142,6 @@ Started reading chapter 1 of You Don't Know Javascript, halfway through.
 
 ### R1D71 (1/27)
 Organized repository and resumed work on Parser. Added upload button and functionality.
+
+### R1D72 (1/29)
+Continued working on Parser. Changing to a tabbed layout. Still getting to know flexbox layout.
