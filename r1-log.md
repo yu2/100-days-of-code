@@ -145,3 +145,6 @@ Organized repository and resumed work on Parser. Added upload button and functio
 
 ### R1D72 (1/29)
 Continued working on Parser. Changing to a tabbed layout. Still getting to know flexbox layout.
+
+### R1D73 (1/31)
+Made flexbox tabs work, but having issues with sizing and shrinking.
