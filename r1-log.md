@@ -150,4 +150,7 @@ Continued working on Parser. Changing to a tabbed layout. Still getting to know 
 Made flexbox tabs work, but having issues with sizing and shrinking.
 
 ### R1D74 (2/2)
-Learned about loops and matrices to help someone solve a problem.
+Learned about loops and matrices in R to help someone solve a problem.
+
+### R1D75 (2/9)
+Finished Chapter 1 of You Don't Know Javascript and completed the practice problem.
