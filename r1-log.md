@@ -154,3 +154,6 @@ Learned about loops and matrices in R to help someone solve a problem.
 
 ### R1D75 (2/9)
 Finished Chapter 1 of You Don't Know Javascript and completed the practice problem.
+
+### R1D76, 77, 78 (2/16)
+Finished "Up and Going" of YDKJS, worked on practice questions from Chapters 1 and 2.
