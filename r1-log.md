@@ -160,3 +160,6 @@ Finished "Up and Going" of YDKJS, worked on practice questions from Chapters 1 a
 
 ### R1D79 (2/17)
 Practiced modularization by creating a signup/login page, then spent some time to tweak it on mobile.
+
+### R1D80 (2/18)
+Begun reading the Scope & Closure book of YDKJS.
