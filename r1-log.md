@@ -163,3 +163,6 @@ Practiced modularization by creating a signup/login page, then spent some time t
 
 ### R1D80 (2/18)
 Begun reading the Scope & Closure book of YDKJS.
+
+### R1D81 (2/21)
+Chapter 1 of Scope & Closures, tried to add CSS transitions to Signup/Login page.
