@@ -166,3 +166,6 @@ Begun reading the Scope & Closure book of YDKJS.
 
 ### R1D81 (2/21)
 Chapter 1 of Scope & Closures, tried to add CSS transitions to Signup/Login page.
+
+### R1D82 (2/24)
+Begun Chapter 2 of Scope & Closures. Experimented with CSS animations.
