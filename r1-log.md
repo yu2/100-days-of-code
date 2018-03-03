@@ -169,3 +169,6 @@ Chapter 1 of Scope & Closures, tried to add CSS transitions to Signup/Login page
 
 ### R1D82 (2/24)
 Begun Chapter 2 of Scope & Closures. Experimented with CSS animations.
+
+### R1D83 (3/3)
+Finished Chapter 2 of Scope & Closures and freeCodeCamp algorithm Make a Person.
