@@ -172,3 +172,6 @@ Begun Chapter 2 of Scope & Closures. Experimented with CSS animations.
 
 ### R1D83 (3/3)
 Finished Chapter 2 of Scope & Closures and freeCodeCamp algorithm Make a Person.
+
+### R1D84 (3/4)
+Finished FCC algorithm Map the Debris.
