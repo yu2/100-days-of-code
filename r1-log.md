@@ -175,3 +175,6 @@ Finished Chapter 2 of Scope & Closures and freeCodeCamp algorithm Make a Person.
 
 ### R1D84 (3/4)
 Finished FCC algorithm Map the Debris.
+
+### R1D85 (3/6)
+Finished FCC algorithm Pairwise.
