@@ -184,3 +184,6 @@ Started reading Chapter 3 of Scope & Closures, practiced with hiding functions.
 
 ### R1D87 (3/8)
 Finished Chapter 3 of Scope & Closures.
+
+### R1D88 (3/9)
+Started working on Calculator.
