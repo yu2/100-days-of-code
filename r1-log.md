@@ -196,3 +196,6 @@ Finished Chapter 4 of Scope & Closures. Worked on the Calculator's display.
 
 ### R1D91 (3/17)
 Worked on buttons for the calculator.
+
+### R1D92 (3/18)
+Fixed some bugs on the calculator and adjusted shapes and colors.
