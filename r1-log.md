@@ -199,3 +199,6 @@ Worked on buttons for the calculator.
 
 ### R1D92 (3/18)
 Fixed some bugs on the calculator and adjusted shapes and colors.
+
+### R1D93 (3/21)
+Changed font. Adjusted size and color of buttons and added some simple animations. Added backspace functionality. 
