@@ -202,3 +202,6 @@ Fixed some bugs on the calculator and adjusted shapes and colors.
 
 ### R1D93 (3/21)
 Changed font. Adjusted size and color of buttons and added some simple animations. Added backspace functionality. 
+
+### R1D94-95 (3/25）
+Fixed display of overflowing digits on the calculator. Reviewed Chapter 4 of YDKJS Scope & Closures and got started on Chapter 5.
