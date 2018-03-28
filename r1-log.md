@@ -205,3 +205,6 @@ Changed font. Adjusted size and color of buttons and added some simple animation
 
 ### R1D94-95 (3/25）
 Fixed display of overflowing digits on the calculator. Reviewed Chapter 4 of YDKJS Scope & Closures and got started on Chapter 5.
+
+### R1D96 (3/27)
+Adjusted layout of Quote project and got started on the Pomodoro Clock.
