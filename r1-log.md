@@ -208,3 +208,6 @@ Fixed display of overflowing digits on the calculator. Reviewed Chapter 4 of YDK
 
 ### R1D96 (3/27)
 Adjusted layout of Quote project and got started on the Pomodoro Clock.
+
+### R1D97 (3/29)
+Added editable divs for the minutes and seconds fields of Pomodoro Clock. 
