@@ -211,3 +211,6 @@ Adjusted layout of Quote project and got started on the Pomodoro Clock.
 
 ### R1D97 (3/29)
 Added editable divs for the minutes and seconds fields of Pomodoro Clock. 
+
+### R1D98 (3/31)
+Drew a CSS koala with glasses.
