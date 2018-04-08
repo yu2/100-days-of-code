@@ -214,3 +214,6 @@ Added editable divs for the minutes and seconds fields of Pomodoro Clock.
 
 ### R1D98 (3/31)
 Drew a CSS koala with glasses.
+
+### R1D99 (4/8)
+Revisited Random Quote Machine and added color transitions to background, title, and "One More" button.
