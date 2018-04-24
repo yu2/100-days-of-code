@@ -217,3 +217,6 @@ Drew a CSS koala with glasses.
 
 ### R1D99 (4/8)
 Revisited Random Quote Machine and added color transitions to background, title, and "One More" button.
+
+### R1D100 (4/24)
+Organized data and performed analysis. Started using vim as a web developing IDE. Set up directories and fiddled with tag closing and syntax highlighting plugins. 
